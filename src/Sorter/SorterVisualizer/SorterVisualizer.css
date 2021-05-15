@@ -1,0 +1,13 @@
+.sorter-visualizer{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	align-items: flex-end;
+	justify-content: center;
+}
+
+.arrayBar{
+	width: 1vw;
+	background-color: black;
+	margin: 3px;
+}
